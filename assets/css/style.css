@@ -374,6 +374,11 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 34px;
   }
 }
+@media screen and (max-width: 767px) {
+			img {
+				width: 40%;
+			}
+		}
 #hero .hero-content .btn-get-started, #hero .hero-content .btn-projects {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
