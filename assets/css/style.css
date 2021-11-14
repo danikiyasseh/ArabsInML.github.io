@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 #header #logo h1 a {
-  color: #0c2e8a;
+  color: #1d4999;
 }
 #header #logo h1 a span {
   color: #009000;
@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0c2e8a;
+  color: #1d4999;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0c2e8a;
+  color: #1d4999;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #009000;
@@ -360,7 +360,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #hero .hero-content h2 {
-  color: #0c2e8a;
+  color: #1d4999;
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
@@ -392,12 +392,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #hero .hero-content .btn-get-started {
-  background: #0c2e8a;
-  border: 2px solid #0c2e8a;
+  background: #1d4999;
+  border: 2px solid #1d4999;
 }
 #hero .hero-content .btn-get-started:hover {
   background: none;
-  color: #0c2e8a;
+  color: #1d4999;
 }
 #hero .hero-content .btn-projects {
   background: #009000;
@@ -445,7 +445,7 @@ section {
 }
 .section-header h2 {
   font-size: 32px;
-  color: #0c2e8a;
+  color: #1d4999;
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
@@ -535,7 +535,7 @@ section {
   }
 }
 #about .content h2 {
-  color: #0c2e8a;
+  color: #1d4999;
   font-weight: 700;
   font-size: 36px;
   font-family: "Raleway", sans-serif;
@@ -595,7 +595,7 @@ section {
   margin-top: 34px;
 }
 #services .box .icon i:before {
-  background: #0c2e8a;
+  background: #1d4999;
   background: linear-gradient(45deg, #009000 0%, #a3ebd5 100%);
   background-clip: border-box;
   -webkit-background-clip: text;
@@ -1108,5 +1108,5 @@ section {
   color: #555;
 }
 #footer .credits a {
-  color: #0c2e8a;
+  color: #1d4999;
 }
